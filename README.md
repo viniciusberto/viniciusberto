@@ -4,8 +4,7 @@ I'm Vinicius Berto, a programmer with a few years of experience in WEB and Mobil
 
 - 🔭 I’m currently working on SCC Check ...
 - 🌱 I’m currently learning Docker
-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusberto&hide=contribs,prs&show_icons=true&langs_count=8&count_private=true&theme=dracula)](https://viniciusberto.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusberto)](https://viniciusberto.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusberto&hide=contribs,prs&show_icons=true&count_private=true&theme=dark)](https://viniciusberto.com) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusberto&langs_count=8&theme=dark)](https://viniciusberto.com)
