@@ -13,3 +13,8 @@ I'm Vinicius Berto, a programmer with a few years of experience in WEB and Mobil
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusberto)](https://viniciusberto.com)
 -->
+
+
+Alinhado a esquerda | Centralizado | Alinhado a direita
+:--------- | :------: | -------:
+Valor | Valor | Valor
