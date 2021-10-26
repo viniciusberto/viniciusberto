@@ -5,16 +5,12 @@ I'm Vinicius Berto, a programmer with a few years of experience in WEB and Mobil
 - 🔭 I’m currently working on SCC Check with Software Engineer
 - 🌱 I’m currently learning Docker
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusberto&langs_count=8&theme=dark)](https://viniciusberto.com) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusberto&hide=contribs,prs&show_icons=true&count_private=true&theme=dark)](https://viniciusberto.com)
-
 <!--
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusberto)](https://viniciusberto.com)
 -->
 
 
-Alinhado a esquerda | Centralizado | Alinhado a direita
-:--------- | :------: | -------:
-Valor | Valor | Valor
+Alinhado a esquerda | Alinhado a direita
+:--------- | -------:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusberto&langs_count=8&theme=dark)](https://viniciusberto.com) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusberto&hide=contribs,prs&show_icons=true&count_private=true&theme=dark)](https://viniciusberto.com)
