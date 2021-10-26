@@ -6,5 +6,16 @@ I'm Vinicius Berto, a programmer with a few years of experience in WEB and Mobil
 - 🌱 I’m currently learning Docker
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusberto&langs_count=8&theme=dark)](https://viniciusberto.com)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusberto&hide=contribs,prs&show_icons=true&count_private=true&theme=dark)](https://viniciusberto.com) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusberto)](https://viniciusberto.com)
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+<table>
+  <tr>
+    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusberto&langs_count=8&theme=dark)](https://viniciusberto.com)</td>
+    <td>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusberto&hide=contribs,prs&show_icons=true&count_private=true&theme=dark)](https://viniciusberto.com)</td>
+  </tr>
+</table>
+
+<!--
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viniciusberto)](https://viniciusberto.com)
+-->
