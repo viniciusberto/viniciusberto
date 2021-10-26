@@ -5,7 +5,5 @@ I'm Vinicius Berto, a programmer with a few years of experience in WEB and Mobil
 
 **viniciusberto/viniciusberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on SCC Check ...
 - 🌱 I’m currently learning Docker
