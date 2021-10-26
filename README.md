@@ -6,8 +6,6 @@ I'm Vinicius Berto, a programmer with a few years of experience in WEB and Mobil
 - 🌱 I’m currently learning Docker
 
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
 <table>
   <tr>
     <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusberto&langs_count=8&theme=dark)](https://viniciusberto.com)</td>
